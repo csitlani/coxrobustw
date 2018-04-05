@@ -1,0 +1,16 @@
+Package: coxrobustw
+Version: 1.0
+Depends: R (>= 2.0.0), survival
+Date: 2018-04-04
+Title: Weighted Robust Estimation in Cox Model
+LazyLoad: Yes
+Description: Fit robustly proportional hazards regression model, with sampling weights
+Author: Tadeusz Bednarski <t.bednarski@prawo.uni.wroc.pl>, Filip
+        Borowicz <f.borowicz@prawo.uni.wroc.pl>, Colleen Sitlani   
+        <csitlani@uw.edu>
+Maintainer: Colleen Sitlani <csitlani@uw.edu>
+License: GPL (>= 2)
+Packaged: 
+Repository: 
+Date/Publication: 
+

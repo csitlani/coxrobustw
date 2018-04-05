@@ -1,0 +1,26 @@
+46aaf69a91703493b666f212a04f2d8d *COPYING
+9321f8d43cd625747360cf89899aa9f1 *DESCRIPTION
+4cb4ecad2e438efca7e7879b5acff9d8 *NAMESPACE
+8d03a821e29399ed52767f18763c23f7 *R/coxrw.R
+ca9065049fba6704b6dce858c419a99a *R/coxrw.fit.R
+824cc2657211e1cfffb64f8ca17d1c3f *R/gen_data.R
+27a65547eac7393bcb3ed1e8251757ce *R/plot.coxr.R
+9f7dc63b203a6b0c429015cf1f27700a *R/predict.coxr.R
+86a6622dd61c0621559f789c89391871 *R/print.coxr.R
+b8ab71ddd8b688c133da6459b843e67a *R/zzz.R
+080b77eb7d25bd540800ceb038a9e003 *man/coxrw.Rd
+f1c2c8700632d342fdf3c960cbc466ad *man/coxr.object.Rd
+1f519a9a54b53d1ad1b801742200f8c0 *man/gen_data.Rd
+252cb08ec9f8ebe48bc343199ca3f157 *man/plot.coxr.Rd
+40725309c00ad8775c965830ac26923e *src/a.c
+92b8282cc37ea61a0f050af81aadf75a *src/coxrobust.h
+025a4a72f461f1ed1346d98b44926cff *src/dmatrix.c
+af5e909ed1717484c40b3b0ff0ed3576 *src/lambda.c
+b9bdb347022701d471dc45f623feb33c *src/lin.c
+4483e63c3440f95670ac989c825fd6ef *src/ple.c
+c830b1c42122a684662ebe748fbc463c *src/re.c
+7d2b1e3b1fae774e491225704582b98e *src/rew.c
+ba0718314cf499ba5f73de7943ca47ac *src/linw.c
+67ecd96b7d797749d1e5a085633ca6dd *src/plew.c 
+2ea7417bcca9247a50af54f5329b55e7 *src/plewcov.c 
+
